@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ca6b7d36fac79a28850ac7aef9abb7a",
+    "revision": "7c98ecf417256f70dd95bffd45bd70db",
     "url": "/recipe-app/index.html"
   },
   {
